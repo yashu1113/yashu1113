@@ -1,20 +1,20 @@
 <h1 align="center">Hi, I'm Yash 👋</h1>
-<h3 align="center">Full Stack Developer | Cloud | Scalable Web Applications</h3>
+<h3 align="center">Software Developer | Cloud | Scalable Web Applications</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&center=true&vCenter=true&width=720&lines=Full+Stack+Developer;Building+Scalable+Web+Applications;React+%7C+Node.js+%7C+MongoDB;REST+APIs+%7C+Real-Time+Systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&center=true&vCenter=true&width=720&lines=Software+Developer;Building+Scalable+Web+Applications;React+%7C+Node.js+%7C+MongoDB;REST+APIs+%7C+Real-Time+Systems" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
-- Full Stack Software Developer working with **React.js, Node.js, Express.js, and MongoDB**
+- Software Developer working with **React.js, Node.js, Express.js, and MongoDB**
 - Strong experience in **REST APIs**, authentication, and real-time systems
 - Worked on **production applications** with real users
 - Interested in building scalable systems, clean architectures, and reliable cloud-based applications
 
 📍 **Location:** Pune, India  
-💼 **Open to:** Full-Stack / Backend opportunities
+💼 **Open to:** Remote • Hybrid • On-site
 
 ---
 
@@ -39,6 +39,9 @@
 
 ## 🚀 Featured Project
 ### 💬 Real-Time Chat Application (Cheat Chat)
+
+🔗 **Live Demo:** https://cheatchatbyyash.vercel.app/
+
 - Real-time messaging using **Socket.IO**
 - Secure authentication with **JWT & Google OAuth**
 - Private chats, user search, protected routes
